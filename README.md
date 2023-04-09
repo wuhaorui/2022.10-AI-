@@ -8,6 +8,7 @@
 在项目目录下有:<br />
 一个vgg_pretrained.py文件、一个参数文件夹params（内含两张模型参数）、一个数据文件夹data <br />
 其中params的云盘链接为https://cloud.tsinghua.edu.cn/d/2f85460bf1824f37be71/  <br />
+完整代码链接为https://cloud.tsinghua.edu.cn/d/6f8b320c92c947abbff2/
 data使用原始文件夹即可
 
 ## 三.运行步骤
